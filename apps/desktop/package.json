@@ -86,18 +86,18 @@
     "@vitejs/plugin-react": "^4.3.4",
     "@vitest/coverage-v8": "^4.0.17",
     "autoprefixer": "^10.4.20",
-    "electron": "^39.8.5",
+    "electron": "^42.11.16",
     "electron-builder": "^25.1.8",
     "esbuild": "^0.28.1",
-    "happy-dom": "^20.8.9",
+    "happy-dom": "^21.0.4",
     "jsdom": "^27.4.0",
-    "postcss": "^8.5.10",
+    "postcss": "^8.5.23",
     "tailwindcss": "^3.4.17",
     "tailwindcss-animate": "^1.0.7",
     "typescript": "^5.7.2",
-    "vite": "^6.4.2",
+    "vite": "^6.4.5",
     "vite-plugin-electron": "^0.29.0",
-    "vitest": "^3.2.6"
+    "vitest": "^4.1.11"
   },
   "build": {
     "npmRebuild": false,
